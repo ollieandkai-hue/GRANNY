@@ -1,5 +1,3 @@
-# GRANNY
-FULLSCREEN GRANNY GAME
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
